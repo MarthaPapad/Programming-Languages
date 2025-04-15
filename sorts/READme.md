@@ -1,1 +1,1 @@
-This folder contains C/C++ codes of common sorting algorithms
+This folder contains C++ codes of common sorting algorithms
